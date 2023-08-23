@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="3">
+        <file>
+            <url>application/views/order_confirmation.php</url>
+            <bookmark id="3">
+                <name/>
+                <line>0</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>application/views/admin/manage_settings.php</url>
+            <bookmark id="1">
+                <name/>
+                <line>47</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>application/views/admin/topbar.php</url>
+            <bookmark id="2">
+                <name/>
+                <line>24</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/xampp/htdocs/shangarcollection/application/controllers/Authorize.php</file>
+            <file>file:/E:/xampp/htdocs/shangarcollection/admin_assets/js/set.js</file>
+            <file>file:/E:/xampp/htdocs/shangarcollection/application/views/admin/manage_p_orders.php</file>
+            <file>file:/E:/xampp/htdocs/shangarcollection/application/views/order_confirmation.php</file>
+            <file>file:/E:/xampp/htdocs/shangarcollection/application/controllers/Pages.php</file>
+            <file>file:/E:/xampp/htdocs/shangarcollection/application/views/index.php</file>
+            <file>file:/E:/xampp/htdocs/shangarcollection/application/config/routes.php</file>
+            <file>file:/E:/xampp/htdocs/shangarcollection/application/views/member/member_detail.php</file>
+            <file>file:/E:/xampp/htdocs/shangarcollection/application/controllers/Backend.php</file>
+        </group>
+    </open-files>
+</project-private>
